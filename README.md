@@ -1,4 +1,4 @@
-# git-atividade
+#git-atividade
 
 Conjunto de comandos - Atividade 1
 
@@ -26,4 +26,18 @@ Conjunto de comandos - Atividade 1
 
 12 - git push -u origin master
 
+13 - git tag 0.1.0
 
+14 - git tag -l
+
+15 - git push origin master --tags
+
+16 - vim README.md
+
+17 - git add README.md
+
+18 - git commit -m 'Commit com alterações para a atividade 2'
+
+17 - git tag 0.1.1
+
+18 - git push origin master --tags
