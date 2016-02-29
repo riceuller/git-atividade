@@ -38,6 +38,8 @@ Conjunto de comandos - Atividade 1
 
 18 - git commit -m 'Commit com alterações para a atividade 2'
 
-17 - git tag 0.1.1
+19 - git push -u origin master
 
-18 - git push origin master --tags
+20 - git tag 0.1.1
+
+21 - git push origin master --tag
